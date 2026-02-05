@@ -66,5 +66,5 @@
 A detailed financial breakdown is available in [COST_ANALYSIS.md](COST_ANALYSIS.md).
 **Estimated Operational Cost**: ~$15/month (Pilot Phase).
 
-## 📄 License
-MIT License.
+**Demo URL: https://unjagged-disrespectfully-isiah.ngrok-free.dev/**
+
