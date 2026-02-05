@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.pem
+.env
+.DS_Store
+# Exclude diagnostic/unused scripts
+diagnose.py
+debug_import.py
+check_creds.py
+check_db_integrity.py
+setup_resources.py
+verify_keys.py
+verify_old_keys.py
+test_*.py
+aws_connect_*.py
+deploy_lambda_backend.py
+check_connect_perms.py
+clean*.py
+clear_db.py
+send_test_sms.py
+lambda_functions/
